@@ -1,0 +1,2 @@
+# gabut
+tugas 2
